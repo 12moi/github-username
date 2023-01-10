@@ -39,8 +39,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
-
 ## Author
 
 - Github - [12moi](https://github.com/12moi)
