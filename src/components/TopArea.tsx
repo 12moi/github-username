@@ -9,7 +9,7 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
   const [empty, setEmpty] = useState<boolean>(false);
   const [notFound, setNotFound] = useState<boolean>(false);
   const usernameRef = useRef<HTMLInputElement>(null);
-  const [inputUser] = useState("octocat");
+  const [inputUser] = useState("12moi");
 
   function hadleSubmit() {
     if (
