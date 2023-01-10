@@ -7,7 +7,7 @@
 
 
 
-<!-- ### The challenge
+ <!-- ### The challenge
 
 Users should be able to:
 
@@ -16,19 +16,19 @@ Users should be able to:
 - Search for GitHub users by their username
 - See relevant user information based on their search
 - Switch between light and dark themes
-- **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS.
+- **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS. -->
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<!-- ![](./screenshot.jpg) -->
 
-### Links
+<!-- ### Links -->
 
-- Live Site URL: []()
+<!-- - Live Site URL: []() -->
 
-## My process
 
-### Built with
+
+### Technologies used
 
 - React
 - Typescript
@@ -39,11 +39,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
 
-I learned that react-query is awesome when you need to fetch things that will not change depending on the user's input. In fact, I started a battle against react-query itself! Awesome tool, but use it with caution.
 
-## Author
+<!-- ## Author
 
 - Github - [elmergustavo](https://github.com/elmergustavo)
-- LinkdIn - [Elmer Gustavo Pu](https://www.linkedin.com/in/elmer-gustavo-p%C3%BA-769b60201/) -->
+- LinkdIn - [Elmer Gustavo Pu](https://www.linkedin.com/in/elmer-gustavo-p%C3%BA-769b60201/)  -->
