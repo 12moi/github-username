@@ -41,10 +41,10 @@ Users should be able to:
 
 
 
-<!-- ## Author
+## Author
 
-- Github - [elmergustavo](https://github.com/elmergustavo)
-- LinkdIn - [Elmer Gustavo Pu](https://www.linkedin.com/in/elmer-gustavo-p%C3%BA-769b60201/)  -->
+- Github - [12moi](https://github.com/12moi)
+- LinkdIn - [Moi Shadrack](https://www.linkedin.com/in/moishadrack/) 
 
 
 ## Licence
