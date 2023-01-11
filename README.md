@@ -7,8 +7,9 @@ This is a simple react application built using javascript library react and type
 
 ### Screenshot
 
-<!-- ![](./screenshot.jpg) -->
+![Alt text](/public/assets/home.png?raw=true "Home page")
 
+![Alt text](/public/assets/home1.png?raw=true "Home page")
 <!-- ### Links -->
 
 <!-- - Live Site URL: []() -->
